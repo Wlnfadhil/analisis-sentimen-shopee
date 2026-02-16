@@ -4,7 +4,7 @@ Proyek ini menganalisis persepsi pengguna terhadap aplikasi Shopee berdasarkan r
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![Status](https://img.shields.io/badge/Status-In%20Progress-success)
+![Status](https://img.shields.io/badge/Status-Selesai-success)
 
 ## Ruang Lingkup
 
